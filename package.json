@@ -1,0 +1,26 @@
+{
+  "name": "ativ4PPIcookiesSessao",
+  "version": "1.0.0",
+  "description": "Implementando sessão e cookies em uma aplicacão web.",
+  "homepage": "https://github.com/thaissematokanovic/Atividade4PPIcookiesSessao.git",
+  "bugs": {
+    "url": "https://github.com/thaissematokanovic/Atividade4PPIcookiesSessao.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaissematokanovic/Atividade4PPIcookiesSessao.git"
+  },
+  "license": "ISC",
+  "author": "Thaisse Matokanovic",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
